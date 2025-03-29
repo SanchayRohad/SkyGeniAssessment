@@ -33,7 +33,7 @@ The analysis uses the following CSV files:
 
 - VS Code (for running scripts)
 
-## Implementation Steps
+## Implementation Steps:
 
 1. Load the datasets using Pandas.
 
