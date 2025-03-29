@@ -7,31 +7,31 @@ This project analyzes various aspects of client subscriptions, payments, and fin
 
 The following key business questions are addressed in this analysis:
 
-How many Finance Lending and Blockchain clients does the organization have?
+Q. How many Finance Lending and Blockchain clients does the organization have?
 
-Which industry has the highest renewal rate?
+Q. Which industry has the highest renewal rate?
 
-What was the average inflation rate when subscriptions were renewed?
+Q. What was the average inflation rate when subscriptions were renewed?
 
-What is the median amount paid each year across all payment methods?
+Q. What is the median amount paid each year across all payment methods?
 
 ##  Dataset Description
 
 The analysis uses the following CSV files:
 
-industry_client_details.csv: Contains industry-wise client details.
+1. industry_client_details.csv: Contains industry-wise client details.
 
-subscription_information.csv: Stores details on client subscriptions and renewals.
+2. subscription_information.csv: Stores details on client subscriptions and renewals.
 
-finanical_information.csv: Includes financial data such as inflation rates.
+3. finanical_information.csv: Includes financial data such as inflation rates.
 
-payment_information.csv: Records payment transactions and amounts.
+4. payment_information.csv: Records payment transactions and amounts.
 
 ## Technology Stack
 
-Python (Pandas)
+- Python (Pandas)
 
-VS Code (for running scripts)
+- VS Code (for running scripts)
 
 ## Implementation Steps
 
