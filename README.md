@@ -60,15 +60,4 @@ The average inflation rate at renewal time is derived using date-based merging.
 
 The median payment per year is calculated using groupby() on the payments dataset.
 
-## Future Enhancements
-
-Expand the analysis with data visualizations (Matplotlib/Seaborn).
-
-Implement SQL-based querying for scalable data handling.
-
-Automate data fetching using AWS (S3/RDS).
-
-## Author
-
-Sanchay . Feel free to reach out for any queries!
 
